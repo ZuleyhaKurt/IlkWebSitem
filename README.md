@@ -1,2 +1,2 @@
-# html-odev1
+# İlk Web Sitem
 HTML Web Sitesi
